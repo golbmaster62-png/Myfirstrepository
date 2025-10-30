@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is ferdie 
+=======
+hello world this is ferdie 
+>>>>>>> ebe57dd0c1dc03816dd22d89e2ebd5923d2badd5
